@@ -1,10 +1,19 @@
 # Controle Financeiro
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4be003389f7447b499ff66d973111ab7)](https://app.codacy.com/app/kleberandrade/controle-financeiro?utm_source=github.com&utm_medium=referral&utm_content=kleberandrade/controle-financeiro&utm_campaign=Badge_Grade_Dashboard)
+
 Disciplina do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas na Unisal Campinas.
 
 ## Ferramentas
 
 *   [Netbeans 8.0.2](https://netbeans.org/downloads/8.0.2/)
+
+## O sistema desenvolvido
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/controle-financeiro/blob/master/screenshots/sistema_financeiro.PNG" height="500"/>
+</p>
+
 
 ## Links interessantes
 
