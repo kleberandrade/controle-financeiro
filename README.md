@@ -1,5 +1,7 @@
 # Controle Financeiro
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4be003389f7447b499ff66d973111ab7)](https://app.codacy.com/app/kleberandrade/controle-financeiro?utm_source=github.com&utm_medium=referral&utm_content=kleberandrade/controle-financeiro&utm_campaign=Badge_Grade_Dashboard)
+
 Disciplina do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas na Unisal Campinas.
 
 ## Ferramentas
