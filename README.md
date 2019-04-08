@@ -9,7 +9,7 @@ Disciplina do terceiro semestre do curso de Análise e Desenvolvimento de Sistem
 ## O sistema desenvolvido
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/controle-financeiro/blob/master/screenshots/sistema_financeiro.PNG" height="400"/>
+  <img src="https://github.com/kleberandrade/controle-financeiro/blob/master/screenshots/sistema_financeiro.PNG" height="500"/>
 </p>
 
 
