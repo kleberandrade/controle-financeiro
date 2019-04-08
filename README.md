@@ -6,6 +6,13 @@ Disciplina do terceiro semestre do curso de Análise e Desenvolvimento de Sistem
 
 *   [Netbeans 8.0.2](https://netbeans.org/downloads/8.0.2/)
 
+## O sistema desenvolvido
+
+<p align="center">
+  <img src="https://github.com/kleberandrade/controle-financeiro/blob/master/screenshots/sistema_financeiro.PNG" height="400"/>
+</p>
+
+
 ## Links interessantes
 
 ## Licença
