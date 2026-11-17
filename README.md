@@ -1,3 +1,38 @@
+# Financial Control
+
+![Language: Java](https://img.shields.io/badge/Language-Java-555555)
+![IDE: NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6)
+[![License: MIT](https://img.shields.io/badge/License-MIT-555555)](https://github.com/kleberandrade/controle-financeiro/blob/master/LICENSE)
+
+Java desktop financial-control application developed for programming classes.
+
+## Getting started
+
+- Open the tracked Java project as an existing project in NetBeans.
+
+- Inspect the project libraries and original course notes before using Build or Run; historical external libraries may need to be restored.
+
+## Recorded requirements
+
+- A JDK and NetBeans compatible with the tracked Ant project configuration.
+
+## Repository map
+
+- [build.xml](https://github.com/kleberandrade/controle-financeiro/blob/master/build.xml)
+- [nbproject/project.xml](https://github.com/kleberandrade/controle-financeiro/blob/master/nbproject/project.xml)
+
+## Validation status
+
+This update documents the tracked source and project metadata. It does not certify a successful build, device test or compatibility with a current toolchain. Follow any project-specific validation instructions in the original material.
+
+## License and attribution
+
+See [LICENSE](https://github.com/kleberandrade/controle-financeiro/blob/master/LICENSE) and any notices accompanying third-party code and assets. This documentation update does not change licensing or authorship.
+
+---
+
+## Original project material
+
 # Controle Financeiro
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4be003389f7447b499ff66d973111ab7)](https://app.codacy.com/app/kleberandrade/controle-financeiro?utm_source=github.com&utm_medium=referral&utm_content=kleberandrade/controle-financeiro&utm_campaign=Badge_Grade_Dashboard)
