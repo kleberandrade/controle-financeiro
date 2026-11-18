@@ -2,7 +2,7 @@
 
 Date: 2026-11-17 (America/Sao_Paulo). Scope: `kleberandrade/controle-financeiro` only.
 
-1. Read the root AGENTS instructions, shared modernization standard and requested implementation/testing guidance. Checked the expected directory, found no checkout, and cloned the authorized repository. Initial status was clean; origin points to the requested GitHub project and the default branch is `master`.
+1. Read the root AGENTS instructions, shared modernization standard and requested implementation/testing guidance. Checked the expected directory, found no checkout, and cloned the authorized repository. Initial status was clean; origin points to the requested GitHub project and the initial default branch was `master`.
 2. Inspected the actual Swing editor, chart helpers, double-based model, DAO exception swallowing, hard-coded MySQL root connection, Ant/NetBeans private configuration, README and original MIT license. Preserved author, academic context, license and historical screenshot.
 3. Queried Maven Central metadata and official dependency documentation to select stable JDK-21-compatible libraries. Excluded milestone/beta releases. Pinned Maven 3.10.1 with a distribution SHA-256, build plugins, formatter, coverage and test tools. Updated compatible Commons CSV transitives explicitly.
 4. Wrote tests first; the initial compilation failed because the new domain/repository/CSV boundary did not yet exist. Implemented exact money, LocalDate/YearMonth, domain validation and pure totals, then replaced the persistence boundary with embedded H2 and Jakarta Persistence/EclipseLink.
@@ -15,6 +15,9 @@ Date: 2026-11-17 (America/Sao_Paulo). Scope: `kleberandrade/controle-financeiro`
 11. Updated the GitHub description and verified seven relevant topics through the repository page. Prepared the English README, contributing guide, changelog, third-party notices, validation record and an unpublished Portuguese lesson revision with conceptual cover and current screenshots.
 12. Checked authenticated Medium stories and the author-filtered search for “controle financeiro”. The session is available, but the search returned an unrelated fictional story and the repository supplies no original lesson URL. Did not edit unrelated writing or create a replacement article. The concrete revision remains local until the correct article is identified. No newsletters or messages were sent.
 
-13. Attempted to push the two completed commits to `origin/master`. Automatic approval review rejected publication to the default branch because the trusted request did not explicitly authorize that exact branch target. No workaround or alternate publication was attempted; explicit approval is pending.
+13. Attempted to push the two completed commits to `origin/master`. Automatic approval review rejected publication to the default branch because the trusted request did not explicitly authorize that exact branch target. No workaround or alternate publication was attempted while approval was pending.
+
+14. After explicit user authorization, pushed `d53bfef` and `c80a9af` to `master`, then renamed the GitHub default branch to `main` as requested. Renamed the local branch, pruned the obsolete remote-tracking reference, set the upstream to `origin/main` and updated `origin/HEAD`. The working tree remained clean.
+15. Verified the remote **Java verification** workflow completed successfully for `c80a9af` on `main` ([run](https://github.com/kleberandrade/controle-financeiro/actions/runs/44225345451)). Updated the validation record to replace the resolved publication blocker with the actual remote result.
 
 The implementation and documentation are committed in separate focused changes. Source publication uses Git push; application-store release, package publication, hosting/deployment, signing and Medium publication are separate actions and were not performed. See VALIDATION.md for evidence and scope limits.
