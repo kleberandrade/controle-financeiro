@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840" role="img" aria-labelledby="title desc">
+<title id="title">Controle Financeiro: Java, dados locais, decisões claras</title>
+<desc id="desc">Capa conceitual vetorial, com três cartões abstratos e barras de despesas. Não é uma captura do aplicativo.</desc>
+<rect width="1600" height="840" fill="#133e32"/>
+<circle cx="1460" cy="100" r="400" fill="#205747"/>
+<path d="M90 138l28-28 28 28-28 28z" fill="none" stroke="#b8dfad" stroke-width="5"/>
+<g fill="#f3f7ee" font-family="Arial,sans-serif">
+<text x="90" y="260" font-size="72" font-weight="700">Controle</text><text x="90" y="342" font-size="72" font-weight="700">Financeiro</text>
+<text x="92" y="404" font-size="28" fill="#c4d9c8">Java. Dados locais. Decisões claras.</text>
+<text x="92" y="725" font-size="24">Kléber de Oliveira Andrade</text><text x="92" y="764" font-size="19" fill="#b9d0c2">UNISAL CAMPINAS · PROJETO ACADÊMICO</text>
+</g>
+<rect x="810" y="180" width="650" height="460" rx="26" fill="#f3f7ee"/>
+<g fill="#dce8dc"><rect x="850" y="225" width="175" height="100" rx="14"/><rect x="1045" y="225" width="175" height="100" rx="14"/><rect x="1240" y="225" width="175" height="100" rx="14"/></g>
+<g fill="#236c55"><rect x="874" y="255" width="70" height="9" rx="4"/><rect x="874" y="280" width="120" height="19" rx="4"/><rect x="1069" y="255" width="70" height="9" rx="4"/><rect x="1069" y="280" width="120" height="19" rx="4"/><rect x="1264" y="255" width="70" height="9" rx="4"/><rect x="1264" y="280" width="120" height="19" rx="4"/>
+<rect x="850" y="385" width="565" height="22" rx="7"/><rect x="850" y="445" width="390" height="22" rx="7"/><rect x="850" y="505" width="250" height="22" rx="7"/><rect x="850" y="565" width="130" height="22" rx="7"/></g>
+<text x="815" y="690" font-family="Arial,sans-serif" font-size="20" fill="#c4d9c8">JDK 21  /  SWING  /  JPA  /  H2</text>
+<text x="815" y="730" font-family="Arial,sans-serif" font-size="16" fill="#c4d9c8">Ilustração conceitual · não representa uma captura de tela</text>
+</svg>
